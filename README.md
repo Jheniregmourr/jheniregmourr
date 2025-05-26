@@ -3,11 +3,12 @@
 </p>
 <div align="center">
   <img height="250em" width="815px" src="https://i.pinimg.com/736x/8e/3c/4e/8e3c4e858347d55dcd8a6676f1f94574.jpg"/>
-  <a href="https://github.com/Jheniregmourr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jheniregmourr&show_icons=true&theme=dark&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jheniregmourr&show_icons=true&theme=dark&rank_icon=github"/>
-  </a>
 </div> 
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jheniregmourr&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jheniregmourr&show_icons=true&theme=dark&rank_icon=github"/>
+</div>
+
 <p align="left">
 
   <p align="center">
