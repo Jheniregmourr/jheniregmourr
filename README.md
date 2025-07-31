@@ -17,12 +17,12 @@
   
 - 👩🏻‍💻 Eu sou...
     - 💬 Técnica em Informática pelo IFPR (Instituto Federal do Paraná).
-    - 🖥️ E estudante de Análise e Desenvolvimento de Sistemas.
+    - 🖥️ E estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo.
 
 - 👩🏻‍💻 Atualmente estou...
-    - 🔭 Desenvolvendo projetos Front-End com React e Tailwind CSS, explorando cada vez mais o consumo de APIs.
-    - 💡 Também estou criando alguns sistemas simples em Java.
-    - 🌱 E estudando POO (Programação Orientada a Objetos, tambem em Java).
+    - 🔭 Desenvolvendo projetos Front-End com forte utilização de JS, e explorando cada vez mais o consumo de APIs e tecnologias atuais do mercado.
+    - 💡 Também estou criando alguns sistemas simples em Python.
+    - 🌱 E estudando POO.
 
  <div style="display: inline_block"><br>
    
